@@ -1,9 +1,9 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "main": "src/server.js",
+  "main": "server.js",  // Adjusted to reflect correct path
   "scripts": {
-    "server": "nodemon src/server.js"
+    "server": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
